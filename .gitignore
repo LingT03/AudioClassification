@@ -1,1 +1,6 @@
+# Data folders
 data
+audioset_raw_audio
+audioset_processed_data
+audioset_mel_spectrograms
+audioset_mel_spectrograms_fast
